@@ -60,7 +60,7 @@ including the clone, build, smoke test, and launch commands. The application
 entry point is `SweetHome3D/src/com/eteks/sweethome3d/SweetHome3D.java`.
 
 ### Evidence
-
+# TODO: Move evidence from my folder into submissions
 Show the whole application window running on your
 machine.
 
@@ -106,9 +106,9 @@ length-based number formatting.
 
 The completed feature must:
 
-1. show Volume by default for a new home;
-2. calculate the value for both catalog and home furniture;
-3. allow ascending and descending sorting by volume;
+1. show Volume by default for a new home; DONE
+2. calculate the value for both catalog and home furniture; DONE
+3. allow ascending and descending sorting by volume; DONE
 4. offer Volume in both **Furniture > Sort by** and **Furniture > Display
    column**;
 5. offer the same choices in the furniture table's context menu; and
