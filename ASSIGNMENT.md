@@ -110,9 +110,9 @@ The completed feature must:
 2. calculate the value for both catalog and home furniture; DONE
 3. allow ascending and descending sorting by volume; DONE
 4. offer Volume in both **Furniture > Sort by** and **Furniture > Display
-   column**;
-5. offer the same choices in the furniture table's context menu; and
-6. include the English label and tooltip text for the new Volume controls.
+   column**; CONE
+5. offer the same choices in the furniture table's context menu; and DONE
+6. include the English label and tooltip text for the new Volume controls. DONE
 
 | Before | Required result |
 | --- | --- |
